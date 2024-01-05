@@ -1,0 +1,5 @@
+<resources>
+    <string name="text">Android</string>
+    <string name="app_name">Button App</string>
+    <string name="roll">Roll</string>
+</resources>
